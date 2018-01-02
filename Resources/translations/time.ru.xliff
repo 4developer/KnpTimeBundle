@@ -54,6 +54,10 @@
                 <source>diff.in.year</source>
                 <target>через %count% год|через %count% года|через %count% лет</target>
             </trans-unit>
+            <trans-unit id="14">
+                <source>diff.old.year</source>
+                <target>%count% год |%count% года |%count% лет </target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
